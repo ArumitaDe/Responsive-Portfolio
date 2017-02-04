@@ -78,7 +78,7 @@ h1{    background-color:#4aaaa5;
         background-color:#ffffff;
         float:left;
         width: 600px;
-       height:450px;
+       height:460px;
        color:#4aaaa5;
        font-weight: bold;
        font-size: 100%;}
@@ -123,3 +123,7 @@ font-weight: lighter;}
 .formtype,.formemail { width: 200px; }
 
 .formsubmit{color:#ffffff; background-color:#4aaaa5;border: #4aaaa5; height: 25px; width :60px; }
+
+#linkedinimage{padding:20px}
+#githubimage{padding:20px}
+#stackimage{padding:20px}
