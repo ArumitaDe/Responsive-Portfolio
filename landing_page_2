@@ -2,7 +2,6 @@
 <!DOCTYPE html>
 <html  style="font-family:sans-serif;">
 <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Index</title>
 
 
@@ -23,14 +22,11 @@
  
   <div class="body">
   <section class ="aboutme">
-About Me
+Thank you for your interest ! 
 <hr>
-     
-<div class = "about-me-text">
- <img class = "aru" src="assets\images\aru.jpg" alt="Arumita De" > 
- 
-I am enthusiastic, hardworking, and on my way to putting my best skills to the world of software development.  My gift to the world will be pleasing, professional, and efficient front-ends! I am enthusiastic, hardworking, and on my way to putting my best skills to the world of software development.  My gift to the world will be pleasing, professional, and efficient front-ends!
-</div>
+<p class = "about-me-text">
+More exciting features coming soon !
+</p>
 </section>
 <section class = "links">
 <p>Connect with me</p>
@@ -47,13 +43,6 @@ I am enthusiastic, hardworking, and on my way to putting my best skills to the w
 </section>
   
   </div>
-
-<div >
-    <p class="footer"><br><br> copyright@2017 </p>
-    
-    </div>
- 
-
 
 
 </body>
